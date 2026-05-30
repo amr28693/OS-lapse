@@ -1,0 +1,30 @@
+(base)  % python generate_figures.py
+Generating figures for OS gauge continuity paper...
+
+Figure 1: Lapse comparison — done.
+Figure 2: Velocity field matching — done.
+  g_TT continuity: int=0.600000, ext=0.600000, delta=1.11e-16
+  g_Tr continuity: int=0.632456, ext=0.632456, delta=1.11e-16
+Figure S1: Metric continuity — done.
+
+All figures generated in /Users/_____/figures
+
+Schwarzschild lapse gap (Table S4.2):
+  R = 10.0M:  N_Sch = 0.8944   dN = 0.1056
+  R =  5.0M:  N_Sch = 0.7746   dN = 0.2254
+  R =  3.0M:  N_Sch = 0.5774   dN = 0.4226
+  R =  2.5M:  N_Sch = 0.4472   dN = 0.5528
+  R =  2.1M:  N_Sch = 0.2182   dN = 0.7818
+  R =  2.0M:  N_Sch = 0.0000   dN = 1.0000
+
+(base) %
+ 
+
+
+
+
+
+
+
+
+
